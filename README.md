@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/eIyTScd.jpeg" width="100%" height="auto"/>
+<img src="" width="100%" height="auto"/>
 
 # 💫 About Me:
 I'm currently embarking on a journey to create amazing projects!<br>I'm currently expanding my knowledge on the IT field<br>I'm looking for help with finding projects to contribute to!<br>Ask me about web development, data administration, data analytics and design
