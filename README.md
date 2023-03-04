@@ -1,7 +1,26 @@
 <img src="https://user-images.githubusercontent.com/126447590/222916204-8ca3b8d5-7148-4ebe-a85b-620d78dc90c9.png" width="100%" height="auto"/>
 
-# 💫 About Me:
-I'm currently embarking on a journey to create amazing projects!<br>I'm currently expanding my knowledge on the IT field<br>I'm looking for help with finding projects to contribute to!<br>Ask me about web development, data administration, data analytics and design
+<br/>
+
+<p>
+  
+Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechnic and have a passion for using technology to improve people's lives. I am always learning about new technologies and their potential applications. I believe that technology has the power to transform society and am excited to be a part of this industry. In my free time, I enjoy staying up-to-date with tech trends and finding ways to use technology for positive impact. 
+
+<div>
+<details>
+  <summary>More about me✨</summary>
+
+- I'm currently embarking on a journey to create ***amazing*** projects!
+
+- I'm currently ***expanding*** my knowledge on the IT field
+
+- I'm looking for help with ***finding projects to contribute to!***
+
+- Ask me about web development, data administration, data analytics and design
+
+</details>
+  
+</p>
 
 
 ## 🌐 Socials:
