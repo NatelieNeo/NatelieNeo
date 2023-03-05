@@ -60,15 +60,6 @@ Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NatelieNeo&theme=react&hide_border=true)<br/>
  -->
 
-## :stars: Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Natelie_Neo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### :stars: Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### :stars: Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NatelieNeo&icon=0&color=1)](https://visitcount.itsvg.in)
 
