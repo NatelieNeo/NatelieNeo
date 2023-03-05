@@ -59,11 +59,18 @@ Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechn
 <!-- ![](https://github-readme-stats.vercel.app/api?username=NatelieNeo&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NatelieNeo&theme=react&hide_border=true)<br/>
  -->
+ 
+<br/>
+ 
+<h1 align="center">:stars: Monthly coding time: </h1>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
+
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=NatelieNeo&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
