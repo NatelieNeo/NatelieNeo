@@ -60,6 +60,9 @@ Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NatelieNeo&theme=react&hide_border=true)<br/>
  -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NatelieNeo&icon=0&color=1)](https://visitcount.itsvg.in)
 
