@@ -48,7 +48,7 @@ Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechn
 <br/>
 
 <h1 align="center">:stars:	Github Statistics: </h1>
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="35.5%" src="https://user-images.githubusercontent.com/126447590/222961589-d69e1d70-ccd4-429c-8dbd-10cfd1a413ae.png"/>
 <a href="https://NatelieNeo.dev/">
   <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=NatelieNeo&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=559bde"/>
   <br/>
