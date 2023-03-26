@@ -64,8 +64,8 @@ Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechn
  
 <h1 align="center">:stars: Monthly coding time: </h1>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
