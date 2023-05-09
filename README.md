@@ -69,7 +69,7 @@ Hi 👋, I am Natelie. I am studying Applied AI & Analytics at Nanyang Polytechn
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
